@@ -3,7 +3,7 @@ import seaborn as sns
 
 # plt.style.use('_classic_test_patch')
 print(plt.style.available)
-sns.set_style("whitegrid")
+sns.set_style("darkgrid")
 
 x1 = [1,2,3,4,5]
 y1 = [2,4,6,8,16]
